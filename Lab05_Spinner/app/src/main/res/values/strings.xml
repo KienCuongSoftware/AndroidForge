@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab5_Bai1</string>
+    <string name="person_1">Người thứ 1</string>
+    <string name="person_2">Người thứ 2</string>
+    <string name="person_3">Người thứ 3</string>
+    <string name="person_4">Người thứ 4</string>
+    <string name="selected_person">Bạn đã chọn %1$s</string>
+    <string name="person_image">Ảnh đại diện</string>
+</resources>

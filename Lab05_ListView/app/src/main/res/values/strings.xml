@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab05_ListView</string>
+    <string name="avatar_content_description">Ảnh đại diện</string>
+</resources>
