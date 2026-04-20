@@ -1,0 +1,31 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Android/Gradle
+**/.gradle/
+**/build/
+**/captures/
+**/local.properties
+**/.cxx/
+
+# Keystore and signing
+*.jks
+*.keystore
+keystore.properties
+
+# Generated files
+**/generated/
+**/outputs/
+
+# OS-specific
+desktop.ini
