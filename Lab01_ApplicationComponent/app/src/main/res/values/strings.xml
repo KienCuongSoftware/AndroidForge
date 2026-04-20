@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">TranKienCuong_Lab1</string>
+    <string name="content" translatable="false">"\n        Android - Application Component:\n1. Activity\n2. Service\n3. ContentProvider\n4. BroadcastReceiver\n5. Hello, my name is Tran Kien Cuong\n    "</string>
+</resources>

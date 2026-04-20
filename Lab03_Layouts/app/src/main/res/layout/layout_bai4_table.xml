@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+
+        <TableRow>
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="STT"
+                android:textStyle="bold" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="Ho va Ten"
+                android:textStyle="bold" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="Lop"
+                android:textStyle="bold" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="Diem"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="1" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="Nguyen Van A" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="10A1" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="9.0" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="2" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="Tran Van B" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="10A1" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="8.0" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="3" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="Ngo Van C" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="10A1" />
+
+            <TextView
+                android:background="@drawable/table_cell_border"
+                android:padding="8dp"
+                android:text="10.0" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>
