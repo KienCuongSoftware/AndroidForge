@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Quản lý công việc</string>
+    <string name="navigation_drawer_open">Mở menu</string>
+    <string name="navigation_drawer_close">Đóng menu</string>
+    <string name="search_hint">Tìm kiếm công việc...</string>
+    <string name="title_them_cong_viec">Thêm %1$s</string>
+    <string name="title_sua_cong_viec">Sửa công việc</string>
+    <string name="hint_ten_cong_viec">Tên công việc</string>
+    <string name="btn_them">Thêm</string>
+    <string name="btn_luu">Lưu</string>
+    <string name="btn_huy">Hủy</string>
+    <string name="btn_xoa">Xóa</string>
+    <string name="btn_dong">Đóng</string>
+    <string name="menu_khac">Khác</string>
+    <string name="header_title">Quản lý công việc</string>
+    <string name="header_subtitle">Quản lý công việc hiệu quả</string>
+    <string name="header_icon_desc">Biểu tượng ứng dụng quản lý công việc</string>
+    <string name="empty_error">Vui lòng nhập tên công việc</string>
+
+    <string name="menu_tim_kiem">Tìm kiếm</string>
+    <string name="menu_sap_xep">Sắp xếp</string>
+    <string name="menu_theo_ten">Theo tên</string>
+    <string name="menu_theo_ngay">Theo ngày</string>
+    <string name="menu_loc">Lọc</string>
+    <string name="menu_cong_viec">Công việc</string>
+    <string name="menu_ca_nhan">Cá nhân</string>
+    <string name="menu_khan_cap">Khẩn cấp</string>
+    <string name="menu_da_hoan_thanh">Đã hoàn thành</string>
+    <string name="menu_xoa_tat_ca">Xóa tất cả</string>
+    <string name="menu_sua_cong_viec">Sửa công việc</string>
+    <string name="menu_xoa_cong_viec">Xóa công việc</string>
+    <string name="menu_danh_dau_hoan_thanh">Đánh dấu hoàn thành</string>
+    <string name="menu_them_cong_viec">Thêm Công việc</string>
+    <string name="menu_them_ca_nhan">Thêm Cá nhân</string>
+    <string name="menu_them_khan_cap">Thêm Khẩn cấp</string>
+    <string name="menu_tat_ca_cong_viec">Tất cả công việc</string>
+    <string name="menu_cai_dat">Cài đặt</string>
+    <string name="menu_gioi_thieu">Giới thiệu</string>
+
+    <string name="loai_cong_viec">Công việc</string>
+    <string name="loai_ca_nhan">Cá nhân</string>
+    <string name="loai_khan_cap">Khẩn cấp</string>
+
+    <string name="sample_task_1">Hoàn thành báo cáo tuần</string>
+    <string name="sample_task_2">Mua sắm cuối tuần</string>
+    <string name="sample_task_3">Họp khẩn với khách hàng</string>
+    <string name="sample_task_4">Chuẩn bị presentation</string>
+
+    <string name="toast_da_chon">Đã chọn: %1$s</string>
+    <string name="toast_da_hoan_thanh">Đã hoàn thành</string>
+    <string name="toast_chua_hoan_thanh">Chưa hoàn thành</string>
+    <string name="toast_cai_dat">Cài đặt</string>
+    <string name="toast_da_them_cong_viec">Đã thêm công việc</string>
+    <string name="toast_da_cap_nhat_cong_viec">Đã cập nhật công việc</string>
+    <string name="toast_da_xoa_cong_viec">Đã xóa công việc</string>
+    <string name="toast_da_danh_dau_hoan_thanh">Đã đánh dấu hoàn thành</string>
+    <string name="toast_da_bo_danh_dau">Đã bỏ đánh dấu</string>
+    <string name="toast_da_xoa_tat_ca">Đã xóa tất cả công việc</string>
+    <string name="toast_da_sap_xep_ten">Đã sắp xếp theo tên</string>
+    <string name="toast_da_sap_xep_ngay">Đã sắp xếp theo ngày</string>
+    <string name="toast_hien_thi_tat_ca">Hiển thị tất cả công việc</string>
+    <string name="toast_loc_theo_loai">Lọc: %1$s</string>
+    <string name="toast_loc_da_hoan_thanh">Lọc: đã hoàn thành</string>
+
+    <string name="dialog_xac_nhan_xoa">Xác nhận xóa</string>
+    <string name="dialog_ban_co_chac_muon_xoa_cong_viec_nay">Bạn có chắc muốn xóa công việc này?</string>
+    <string name="dialog_xac_nhan_xoa_tat_ca">Xác nhận xóa tất cả</string>
+    <string name="dialog_ban_co_chac_muon_xoa_toan_bo_cong_viec">Bạn có chắc muốn xóa toàn bộ công việc?</string>
+    <string name="dialog_gioi_thieu">Giới thiệu</string>
+    <string name="dialog_gioi_thieu_noi_dung">Ứng dụng quản lý công việc với các loại menu:\n\n- Context Menu (nhấn giữ)\n- Toolbar Options Menu\n- Popup Menu (FAB)\n- Navigation Drawer</string>
+</resources>

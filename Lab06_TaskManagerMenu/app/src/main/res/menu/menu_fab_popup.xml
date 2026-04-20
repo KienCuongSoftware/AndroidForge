@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popup_them_cong_viec"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/menu_them_cong_viec" />
+
+    <item
+        android:id="@+id/popup_them_ca_nhan"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="@string/menu_them_ca_nhan" />
+
+    <item
+        android:id="@+id/popup_them_khan_cap"
+        android:icon="@android:drawable/ic_dialog_alert"
+        android:title="@string/menu_them_khan_cap" />
+
+</menu>

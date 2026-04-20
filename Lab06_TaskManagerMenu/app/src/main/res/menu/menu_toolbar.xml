@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/menu_tim_kiem"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_sap_xep"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/menu_sap_xep">
+        <menu>
+            <item
+                android:id="@+id/action_sap_xep_ten"
+                android:title="@string/menu_theo_ten" />
+            <item
+                android:id="@+id/action_sap_xep_ngay"
+                android:title="@string/menu_theo_ngay" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_loc"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/menu_loc">
+        <menu>
+            <item
+                android:id="@+id/action_loc_cong_viec"
+                android:title="@string/menu_cong_viec" />
+            <item
+                android:id="@+id/action_loc_ca_nhan"
+                android:title="@string/menu_ca_nhan" />
+            <item
+                android:id="@+id/action_loc_khan_cap"
+                android:title="@string/menu_khan_cap" />
+            <item
+                android:id="@+id/action_loc_hoan_thanh"
+                android:title="@string/menu_da_hoan_thanh" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_xoa_tat_ca"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/menu_xoa_tat_ca"
+        android:tint="@color/red" />
+
+</menu>

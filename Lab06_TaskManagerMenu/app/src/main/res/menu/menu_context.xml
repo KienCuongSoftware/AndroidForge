@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/context_sua"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/menu_sua_cong_viec" />
+
+    <item
+        android:id="@+id/context_xoa"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/menu_xoa_cong_viec" />
+
+    <item
+        android:id="@+id/context_danh_dau"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="@string/menu_danh_dau_hoan_thanh" />
+
+</menu>
