@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Quản Lý Sinh Viên</string>
+    <string name="student_code">Mã sinh viên</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="date_of_birth">Ngày sinh (dd/mm/yyyy)</string>
+    <string name="major">Ngành học</string>
+    <string name="gpa_hint">GPA (0.0 - 4.0)</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="edit_student">Sửa sinh viên</string>
+    <string name="delete_student">Xóa sinh viên</string>
+    <string name="search">Tìm kiếm theo tên sinh viên...</string>
+    <string name="save">Thêm</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete">Xóa</string>
+    <string name="update">Cập nhật</string>
+    <string name="student_details">Chi tiết sinh viên</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="close">Đóng</string>
+
+    <string name="student_code_value">MSV: %1$s</string>
+    <string name="date_of_birth_value">Ngày sinh: %1$s</string>
+    <string name="major_value">Ngành: %1$s</string>
+    <string name="gpa_value">GPA: %1$s</string>
+    <string name="confirm_delete_message">Bạn có chắc chắn muốn xóa sinh viên %1$s?</string>
+    <string name="student_detail_message">Mã sinh viên: %1$s
+Họ tên: %2$s
+Ngày sinh: %3$s
+Ngành học: %4$s
+GPA: %5$s</string>
+
+    <string name="error_student_code_required">Vui lòng nhập mã sinh viên</string>
+    <string name="error_full_name_required">Vui lòng nhập họ tên</string>
+    <string name="error_date_required">Vui lòng nhập ngày sinh</string>
+    <string name="error_major_required">Vui lòng nhập ngành học</string>
+    <string name="error_gpa_required">Vui lòng nhập GPA</string>
+    <string name="error_gpa_range">GPA phải từ 0.0 đến 4.0</string>
+    <string name="error_gpa_invalid">GPA không hợp lệ</string>
+
+    <string name="message_add_success">Thêm sinh viên thành công</string>
+    <string name="message_add_failed">Thêm sinh viên thất bại. Mã sinh viên có thể đã tồn tại.</string>
+    <string name="message_update_success">Cập nhật sinh viên thành công</string>
+    <string name="message_update_failed">Cập nhật sinh viên thất bại</string>
+    <string name="message_delete_success">Xóa sinh viên thành công</string>
+    <string name="message_delete_failed">Xóa sinh viên thất bại</string>
+</resources>
