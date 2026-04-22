@@ -23,6 +23,7 @@ AndroidForge is a growing hub of Android Studio projects focused on building rea
 - `Lab05_RecyclerView`
 - `Lab05_Onboarding`
 - `Lab06_TaskManagerMenu`
+- `Lab07_SQLite`
 
 ## Tech Stack
 
