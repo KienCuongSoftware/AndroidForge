@@ -1,0 +1,30 @@
+{
+  "products": {
+    "product1": {
+      "name": "Laptop",
+      "price": 100000,
+      "productID": "product1",
+      "quantity": 50
+    },
+    "product2": {
+      "name": "Mobile phone",
+      "price": 200000,
+      "productID": "product2",
+      "quantity": 30
+    }
+  },
+  "users": {
+    "user1": {
+      "email": "admin@example.com",
+      "password": "admin",
+      "role": "admin",
+      "userID": "u1"
+    },
+    "user2": {
+      "email": "customer@example.com",
+      "password": "customer",
+      "role": "customer",
+      "userID": "u2"
+    }
+  }
+}

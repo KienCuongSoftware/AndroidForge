@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lab08_Firebase</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password_dev">Chuc nang quen mat khau dang duoc phat trien</string>
+    <string name="error_fill_all">Vui long nhap day du thong tin</string>
+    <string name="error_wrong_password">Sai mat khau</string>
+    <string name="error_user_not_found">Khong tim thay nguoi dung voi email nay</string>
+    <string name="error_invalid_role">Vai tro nguoi dung khong hop le</string>
+    <string name="welcome_admin">Chao mung Admin</string>
+    <string name="welcome_customer">Chao mung khach hang</string>
+
+    <string name="product_list">Danh sach san pham</string>
+    <string name="product_name">Ten san pham</string>
+    <string name="product_price">Gia san pham</string>
+    <string name="product_quantity">So luong</string>
+    <string name="quantity_value">So luong: %1$d</string>
+    <string name="no_products">Khong co san pham nao de hien thi</string>
+
+    <string name="add_product">Them san pham</string>
+    <string name="edit">Sua</string>
+    <string name="delete">Xoa</string>
+    <string name="save">Luu</string>
+    <string name="cancel">Huy</string>
+    <string name="product_added">Da them san pham</string>
+    <string name="product_updated">Da cap nhat san pham</string>
+    <string name="product_deleted">San pham da xoa</string>
+    <string name="error_invalid_number">Gia va so luong phai la so</string>
+    <string name="error_create_product_id">Khong the tao productID moi</string>
+    <string name="login_subtitle">Dang nhap de tiep tuc</string>
+    <string name="admin_panel">Quan tri san pham</string>
+    <string name="customer_panel">Khach hang</string>
+</resources>
