@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab09 Background Service</string>
+    <string name="pick_audio">Chon nhac</string>
+    <string name="start_music">Phat nhac</string>
+    <string name="stop_music">Dung nhac</string>
+    <string name="no_audio_selected">Chua chon bai hat nao</string>
+    <string name="selected_audio">Da chon: %1$s</string>
+    <string name="pick_audio_first">Vui long chon bai hat truoc</string>
+    <string name="music_started">Phat nhac nen</string>
+    <string name="music_stopped">Dung nhac nen</string>
+    <string name="error_play_music">Khong the phat bai hat nay</string>
+</resources>
