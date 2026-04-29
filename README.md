@@ -24,6 +24,8 @@ AndroidForge is a growing hub of Android Studio projects focused on building rea
 - `Lab05_Onboarding`
 - `Lab06_TaskManagerMenu`
 - `Lab07_SQLite`
+- `Lab08_Firebase`
+- `Lab09_BackgroundService`
 
 ## Tech Stack
 
@@ -42,6 +44,22 @@ AndroidForge is a growing hub of Android Studio projects focused on building rea
 ## Goal
 
 Build a long-term Android portfolio with practical, incremental projects that improve architecture, UI/UX, and implementation quality over time.
+
+## Lab08 Highlights
+
+`Lab08_Firebase` implements an Android app using Firebase Realtime Database with an MVVM structure:
+- Login + role-based navigation (`admin` / `customer`)
+- Customer can view products
+- Admin can add / edit / delete products
+- Product data persisted in `products/` and users in `users/`
+
+## Lab09 Highlights
+
+`Lab09_BackgroundService` demonstrates Android started service for background audio:
+- `MusicService` using `MediaPlayer` for background playback
+- Start/Stop music from `MainActivity`
+- Pick audio file from device storage (`audio/*`)
+- Service declaration in `AndroidManifest.xml`
 
 ## Community Links
 
